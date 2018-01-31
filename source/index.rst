@@ -15,6 +15,7 @@
    client_manage
    export_history
    reference
+   changelog
 
 
 
