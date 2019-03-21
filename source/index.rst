@@ -14,6 +14,7 @@
    aia_manage
    client_manage
    export_history
+   link_import
    reference
    changelog
 
